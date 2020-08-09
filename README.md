@@ -1,13 +1,11 @@
-<h1 align="center"> Hi there 👋, I am Ashwin </h1>
+<h1 align="center"> Hello, World!, I am Ashwin! </h1>
 
-\
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
- 🌱 I’m currently learning Python3
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-### ⚡ Fun fact: Tech Geek, Gamer and Phothographer/Editor
+<p align="left"><img src = "https://komarev.com/ghpvc/?username=ashwinexe" alt="ashwinexe"></p>
+
+- 🔭 I’m currently working on [Crew Website](https://devonyes-beta.herokuapp.com)
+- 🌱 I’m currently learning Python3, ReactJs
+- 💬 Ask me about **C++14**
+- 📫 How to reach me: **kumarashwin2603@gmail.com**
+
+### ⚡ Fun fact: **Geek, Gamer and Phothographer/Editor**
