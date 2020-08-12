@@ -10,7 +10,7 @@
 ---
 🚧I build with...
 <a href="#">
-    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/ashwinexe/ashwinexe/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
   </a>
 
 ---
