@@ -14,16 +14,16 @@
     <img src="https://raw.githubusercontent.com/ashwinexe/ashwinexe/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
   </a>
 <a href="#">
-<img src="https://raw.githubusercontent.com/ashwinexe/ashwinexe/master/svg/dev/frameworks/languages/css3.svg">
+<img src="https://raw.githubusercontent.com/ashwinexe/ashwinexe/master/svg/dev/languages/css3.svg">
 </a>
 <a href="#">
-<img src="https://raw.githubusercontent.com/ashwinexe/ashwinexe/master/svg/dev/frameworks/languages/html.svg">
+<img src="https://raw.githubusercontent.com/ashwinexe/ashwinexe/master/svg/dev/languages/html.svg">
 </a>
 <a href="#">
-<img src="https://raw.githubusercontent.com/ashwinexe/ashwinexe/master/svg/dev/frameworks/languages/python.svg">
+<img src="https://raw.githubusercontent.com/ashwinexe/ashwinexe/master/svg/dev/languages/python.svg">
 </a>
 <a href="#">
-<img src="https://raw.githubusercontent.com/ashwinexe/ashwinexe/master/svg/dev/frameworks/languages/js.svg">
+<img src="https://raw.githubusercontent.com/ashwinexe/ashwinexe/master/svg/dev/languages/js.svg">
 </a>
 </p>
 ---
