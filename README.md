@@ -65,7 +65,8 @@
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashwinexe&show_icons=true" alt="ashwinexe" />
+<p align="center"> 
+![Ashwin's github stats](https://github-readme-stats-beryl.vercel.app/api?username=ashwinexe&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=ashwinexe&hide=Ruby,Shell&layout=compact)
 </p>
 
 <p>
@@ -73,9 +74,7 @@
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayushrout" height="20" width="20" /></a>
 <a href="https://instagram.com/ashwinexe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="they_call_me_ayush" height="20" width="20" /></a>
 </p>
+
 ---
 
 ### ⚡ Fun fact: **Geek, Gamer,Guitarist,Dancer and Phothographer/Editor**
-<br>
-
-![Ashwin's github stats](https://github-readme-stats-beryl.vercel.app/api?username=ashwinexe&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=ashwinexe&hide=Ruby,Shell&layout=compact)
