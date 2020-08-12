@@ -25,6 +25,9 @@
 <a href="https://git-scm.com/">
 <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/languages/js.svg">
 </a>
+<a href="https://git-scm.com">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
+    </a>
 </p>
 
 ---
@@ -38,6 +41,15 @@
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
 </a>
 <a href="github.com/ashwinexe">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/misc/edge.svg" alt="edge" style="vertical-align:top; margin:4px">
+</a>
+<a href="github.com/ashwinexe">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/frameworks/uwp.svg" alt="uwp" style="vertical-align:top; margin:4px">
+</a>
+
+---
+My Gym...
+<a href="github.com/ashwinexe">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
 </a>
 <a href="github.com/ashwinexe">
@@ -50,15 +62,10 @@
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashwinexe&show_icons=true" alt="ashwinexe" /> </p>
-
-<p align="center">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashwinexe&show_icons=true" alt="ashwinexe" />
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ayushrout7" height="20" width="20" /></a>
-
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayushrout" height="20" width="20" /></a>
-
 <a href="https://instagram.com/ashwinexe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="they_call_me_ayush" height="20" width="20" /></a>
-
 </p>
 ---
 
