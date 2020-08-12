@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, World! 👋 I am Ashwin! <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"> </h1>
+<h1 align="center"> Hello, World! 👋 I am Ashwin! <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"> </h1>
 
 
 <p align="left"><img src = "https://komarev.com/ghpvc/?username=ashwinexe" alt="ashwinexe"></p>
