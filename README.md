@@ -33,6 +33,19 @@
 <p>
 <a href="#">
 <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+<a href="github.com/ashwinexe">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
+</a>
+<a href="github.com/ashwinexe">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+</a>
+<a href="github.com/ashwinexe">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+</a>
+<a href="github.com/ashwinexe">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+</a>
 </p>
 
 ---
