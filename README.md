@@ -26,13 +26,17 @@
 <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/languages/js.svg">
 </a>
 </p>
+
 ---
-🧰My Gear
+
+🧰My Gear...
 <p>
 <a href="#">
-<img src="">
+<img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
+
 ---
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashwinexe&show_icons=true" alt="ashwinexe" /> </p>
 
 <p align="center">
