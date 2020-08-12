@@ -52,13 +52,13 @@
 
 **👩‍💻My Gym...**
 <p>
-<a href="www.codechef.com">
+<a href="https://www.codechef.com">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
 </a>
-<a href="leetcode.com">
+<a href="https://www.leetcode.com">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
 </a>
-<a href="hackerrank.com">
+<a href="https://www.hackerrank.com">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
 </a>
 </p>
