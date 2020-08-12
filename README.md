@@ -10,7 +10,7 @@
 ---
 **🚧I build with...**
 <p>
-<a href="#">
+<a href="https://getbootstrap.com/">
     <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
   </a>
 <a href="#">
@@ -34,13 +34,13 @@
 
 **🧰My Gear...**
 <p>
-<a href="#">
+<a href="https://code.visualstudio.com/">
 <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </a>
 <a href="github.com/ashwinexe">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
 </a>
-<a href="github.com/ashwinexe">
+<a href="https://www.microsoft.com/en-us/edge">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/misc/edge.svg" alt="edge" style="vertical-align:top; margin:4px">
 </a>
 <a href="github.com/ashwinexe">
