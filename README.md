@@ -78,4 +78,4 @@
 ### ⚡ Fun fact: **Geek, Gamer,Guitarist,Dancer and Phothographer/Editor**
 <br>
 
-![Klaasnicolaas github stats](https://github-readme-stats-beryl.vercel.app/api?username=klaasnicolaas&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=klaasnicolaas&hide=Ruby,Shell&layout=compact)
+![Ashwin's github stats](https://github-readme-stats-beryl.vercel.app/api?username=ashwinexe&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=ashwinexe&hide=Ruby,Shell&layout=compact)
