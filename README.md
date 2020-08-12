@@ -11,7 +11,7 @@
 🚧I build with...
 <p>
 <a href="#">
-    <img src="https://raw.githubusercontent.com/ashwinexe/ashwinexe/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
   </a>
 <a href="#">
 <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/languages/css3.svg">
@@ -20,17 +20,19 @@
 <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/languages/html.svg">
 </a>
 <a href="#">
-<img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/languages/python.svg">
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/languages/js.svg">
+<img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/languages/python.svg" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://git-scm.com/">
 <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/languages/js.svg">
 </a>
 </p>
 ---
-
+🧰My Gear
+<p>
+<a href="#">
+<img src="">
+</p>
+---
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashwinexe&show_icons=true" alt="ashwinexe" /> </p>
 
 <p align="center">
