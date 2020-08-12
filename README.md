@@ -65,10 +65,8 @@
 
 ---
 
-<p align="center"> 
 <br>
 ![Ashwin's github stats](https://github-readme-stats-beryl.vercel.app/api?username=ashwinexe&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=ashwinexe&hide=Ruby,Shell&layout=compact)
-</p>
 
 <p>
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ayushrout7" height="20" width="20" /></a>
