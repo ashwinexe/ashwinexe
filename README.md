@@ -1,6 +1,6 @@
-<h1 align="center"> Hello, World! <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90"> I am Ashwin!  </h1>
+<h1 align="center"> Hello, World! 👋 I am Ashwin! <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90"> </h1>
 
-👋
+
 <p align="left"><img src = "https://komarev.com/ghpvc/?username=ashwinexe" alt="ashwinexe"></p>
 
 - 🔭 I’m currently working on [Crew Website](https://devonyes-beta.herokuapp.com)
