@@ -3,8 +3,8 @@
 
 <p align="left"><img src = "https://komarev.com/ghpvc/?username=ashwinexe" alt="ashwinexe"></p>
 
-- 🔭 I’m currently working on [Crew Website](https://devonyes-beta.herokuapp.com)
-- 🌱 I’m currently learning Python3, ReactJs
+- 🔭 I’m currently working on **Open Source Development**
+- 🌱 I’m currently learning ReactJs
 - 💬 Ask me about **C++14**
 - 📫 How to reach me: **19311a1901@sreenidhi.edu.in**
 ---
