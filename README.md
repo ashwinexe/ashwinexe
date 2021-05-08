@@ -1,7 +1,6 @@
 <h1 align="center"> Hello, World!<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90">I am Ashwin!</h1>
 
 
-<p align="left"><img src = "https://komarev.com/ghpvc/?username=ashwinexe" alt="ashwinexe"></p>
 
 - 🔭 I’m currently working on **Open Source Development**
 - 🌱 I’m currently learning Javascript
@@ -25,9 +24,7 @@
 <a href="https://git-scm.com/">
 <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/languages/js.svg">
 </a>
-<a href="https://git-scm.com">
-        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
-    </a>
+
 </p>
 
 ---
@@ -45,6 +42,9 @@
 </a>
 <a href="github.com/ashwinexe">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/frameworks/uwp.svg" alt="uwp" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://git-scm.com">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
 </a>
 </p>
 
