@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Open Source Development**
 - 🌱 I’m currently learning Javascript
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++ and Javascript**
 - 📫 How to reach me: **19311a1901@sreenidhi.edu.in**
 ---
 **🚧I build with...**
