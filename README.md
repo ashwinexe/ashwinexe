@@ -1,7 +1,6 @@
 <h1 align="center"> Hello, World!<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90">I am Ashwin!</h1>
 
 
-
 - 🔭 I’m currently working on **NodeJS**
 - 🌱 I’m currently learning Javascript
 - 💬 Ask me about **C++ and Javascript**
