@@ -1,22 +1,34 @@
-<h1 align="center"> Hello, World!<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90">I am Ashwin!</h1>
+<h1 align="center"> Hello, World!
 
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90">
+
+I am Ashwin Kumar Uppala (He/Him)</h1>
 
 - 🔭 I’m currently working on **NodeJS**
 - 🌱 I’m currently learning Javascript
 - 💬 Ask me about **C++ and Javascript**
-- 📫 How to reach me: **19311a1901@sreenidhi.edu.in**
+- 📫 How to reach me:
+<a href="mailto:kumarashwin2603@gmail.com"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/email_me.svg"></a>
+<a href="https://twitter.com/ashwinexe"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/twitter.svg"></a>
+
 ---
 **🚧I build with...**
 <p>
-<a href="https://getbootstrap.com/">
-    <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-  </a>
+<a href="#">
+<img src="https://github.com/ashwinexe/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg?raw=true">
+</a>
+<a href="#">
+<img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/dev/languages/java.svg">
+</a>
 <a href="#">
 <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/languages/css3.svg">
 </a>
 <a href="#">
 <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/languages/html.svg">
 </a>
+<a href="https://getbootstrap.com/">
+    <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+  </a>
 <a href="#">
 <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/languages/python.svg" style="vertical-align:top; margin:4px">
 </a>
@@ -39,9 +51,10 @@
 <a href="https://www.microsoft.com/en-us/edge">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/misc/edge.svg" alt="edge" style="vertical-align:top; margin:4px">
 </a>
-<a href="github.com/ashwinexe">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/frameworks/uwp.svg" alt="uwp" style="vertical-align:top; margin:4px">
+<a href="https://www.microsoft.com/en-us/edge">
+<img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/dev/tools/powershell.svg" alt="edge" style="vertical-align:top; margin:4px">
 </a>
+
 <a href="https://git-scm.com">
         <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
 </a>
@@ -64,7 +77,7 @@
 
 ---
 
-### ⚡ Fun fact: **Geek, Gamer, Guitarist, Dancer and Phothographer**
+### ⚡ When I don't code : **Games, Guitar, Dance and Phothography**
 
 ---
 
