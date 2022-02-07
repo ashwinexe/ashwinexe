@@ -10,6 +10,7 @@ I am Ashwin Kumar Uppala (He/Him)</h1>
 - 📫 How to reach me:
 <a href="mailto:kumarashwin2603@gmail.com"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/email_me.svg"></a>
 <a href="https://twitter.com/ashwinexe"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/twitter.svg"></a>
+<a href="https://linkedin.com/in/ashwinexe"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/linkedin.svg"></a>
 
 ---
 **🚧I build with...**
@@ -83,8 +84,3 @@ I am Ashwin Kumar Uppala (He/Him)</h1>
 
 ![Ashwin's github stats](https://github-readme-stats-beryl.vercel.app/api?username=ashwinexe&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=ashwinexe&hide=Ruby,Shell&layout=compact)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashwinexe&theme=dark)](https://git.io/streak-stats)
-<p align="center">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ayushrout7" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayushrout" height="20" width="20" /></a>
-<a href="https://instagram.com/ashwinexe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="they_call_me_ayush" height="20" width="20" /></a>
-</p>
