@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, World!
 
-<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90">
+<!-- <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90"> -->
 
 I am Ashwin Kumar Uppala (He/Him)</h1>
 
