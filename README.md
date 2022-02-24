@@ -13,7 +13,7 @@ I am Ashwin Kumar Uppala (He/Him)</h1>
 <a href="https://linkedin.com/in/ashwinexe"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/linkedin.svg"></a>
 
 ---
-**🚧I build with...**
+**🚧I build with....**
 <p>
 <a href="#">
 <img src="https://github.com/ashwinexe/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg?raw=true">
