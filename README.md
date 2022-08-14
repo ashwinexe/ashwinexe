@@ -78,7 +78,7 @@ I am Ashwin Kumar Uppala (He/Him)</h1>
 
 ---
 
-### ⚡ When I don't code : **Games, Guitar, Dance and Phothography**
+### ⚡ When I don't code : **Games, Guitar, Dance and Photography**
 
 ---
 
