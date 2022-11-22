@@ -17,18 +17,15 @@ Welcome to my portfolio</h1>
 **Featured:**
 
 - [LearnScape](https://github.com/starlightknown/LearnScape):  *Best use of getstream.io | Open Source Best Practices[ Cloud Native Hackathon](https://devpost.com/software/learnscape)*
- This platform is developed such that it can guide new folks and learn concepts of Docker and Kubernetes. 
- 
+ This platform is developed such that it can guide new folks and learn concepts of Docker and Kubernetes. <br/>
  **Built with** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) Datree, Alan AI,
 and getstream.io.
 - [no_gARbage](https://github.com/SurfsUpHacks21/No_gARbage): *Second Overall Prize at [Surf Hacks](https://devpost.com/software/no-garbage) by Major League Hacking*
 An AR instagram filter which aims to teach users on beach
-sanitation aiming to protect our marine animals
-
+sanitation aiming to protect our marine animals <br/>
 **Built with** ![sparkar](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - [Pride Bot](https://github.com/tyffical/Pridebot): *2 Category winners in [Pride Hacks](https://github.com/tyffical/Pridebot)*:
-Python discord bot to support the pride community.
-
+Python discord bot to support the pride community. <br/>
 **Built with**: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) 
 
 - All projects » [Devpost](https://devpost.com/ashwinexe)
