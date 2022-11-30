@@ -4,12 +4,12 @@ I am Ashwin Kumar Uppala (He/Him)
     
 Welcome to my portfolio</h1>
 - GitHub Campus Expert 🚩 Microsoft Learn Student Ambassador  💡 MLH Top 50 🌟 MLH Coach 🧑‍🏫
-- 🌱 Exploring ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+- 🌱 Exploring <a href="https://kubernetes.io/">![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)</a>
 - 💬 Ask me about **Code, Content or Community**
 - 📫 How to reach me:
-<a href="mailto:kumarashwin2603@gmail.com"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/email_me.svg"></a>
-<a href="https://twitter.com/ashwinexe"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/twitter.svg"></a>
-<a href="https://linkedin.com/in/ashwinexe"><img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/social/linkedin.svg"></a>
+<a href="https://twitter.com/ashwinexe"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://linkedin.com/in/ashwinexe"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:kumarashwin2603@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
 ## 📚 Projects: 
