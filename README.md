@@ -5,7 +5,7 @@ I am Ashwin Kumar Uppala (He/Him)
 Welcome to my portfolio</h1>
 - Building [GitHub Education](https://education.github.com/students/)
 - GitHub Campus Expert 🚩 Microsoft Learn Student Ambassador  💡 MLH Top 50 🌟 MLH Coach 🧑‍🏫
-- 🌱 Exploring <a href="https://kubernetes.io/">![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)</a>
+- 🌱 Exploring YAML files
 - 💬 Ask me about **Code, Content or Community**
 - 📫 How to reach me:
 <a href="https://twitter.com/ashwinexe"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
