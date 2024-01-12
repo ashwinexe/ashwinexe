@@ -3,7 +3,7 @@ I am Ashwin Kumar Uppala (He/Him)
 <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90">
     
 Welcome to my portfolio</h1>
-- Buidling [GitHub Octernships](https://education.github.com/students/octernships)
+- Building [GitHub Education](https://education.github.com/students/)
 - GitHub Campus Expert 🚩 Microsoft Learn Student Ambassador  💡 MLH Top 50 🌟 MLH Coach 🧑‍🏫
 - 🌱 Exploring <a href="https://kubernetes.io/">![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)</a>
 - 💬 Ask me about **Code, Content or Community**
