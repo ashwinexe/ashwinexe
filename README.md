@@ -3,7 +3,7 @@ I am Ashwin Kumar Uppala (He/Him)
 <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90">
     
 Welcome to my portfolio</h1>
-- Building [GitHub Education](https://education.github.com/students/)
+- Previously [GitHub Education](https://education.github.com/students/), [Major League Hacking](https://mlh.io)
 - GitHub Campus Expert 🚩 Microsoft Learn Student Ambassador  💡 MLH Top 50 🌟 MLH Coach 🧑‍🏫
 - 🌱 Exploring YAML files
 - 💬 Ask me about **Code, Content or Community**
