@@ -5,7 +5,7 @@ I am Ashwin Kumar Uppala (He/Him)
 Welcome to my portfolio</h1>
 - Previously [GitHub Education](https://education.github.com/students/), [Major League Hacking](https://mlh.io)
 - GitHub Campus Expert 🚩 Microsoft Learn Student Ambassador  💡 MLH Top 50 🌟 MLH Coach 🧑‍🏫
-- 🌱 Exploring YAML files
+- 🌱 Exploring Golang
 - 💬 Ask me about **Code, Content or Community**
 - 📫 How to reach me:
 <a href="https://twitter.com/ashwinexe"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
