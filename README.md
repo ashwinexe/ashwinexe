@@ -6,8 +6,8 @@ Welcome to my portfolio</h1>
 - Building [Devfolio](devfolio.co)
 - Previously [GitHub Education](https://education.github.com/students/), [Major League Hacking](https://mlh.io)
 - GitHub Campus Expert 🚩 Microsoft Learn Student Ambassador  💡 MLH Top 50 🌟 MLH Coach 🧑‍🏫
-- 🌱 Exploring Golang
-- 💬 Ask me about **Code, Content or Community**
+- 🌱 Exploring Ethereum
+- 💬 Ask me about **Code, Content, Community & Developer Relations**
 - 📫 How to reach me:
 <a href="https://twitter.com/ashwinexe"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://linkedin.com/in/ashwinexe"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
